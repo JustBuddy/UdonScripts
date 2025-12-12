@@ -16,6 +16,6 @@ Used for zoning.
 Will turn stuff off when leaving a trigger collider.  
 
 ## ObjectToggleMimic  
-Mimics the active state of one GameObject to another, with an object to invert.  
+Mimics the active state of one GameObject to another, with an option to invert.  
 Should not be attached to any objects it references.  
 
