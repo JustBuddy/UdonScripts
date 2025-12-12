@@ -3,7 +3,7 @@ Random U# scripts I made for stuff.
 Quality may vary, and is tooled for a specific use.  
   
 ## SliderPersistence  
-Watches a slider component and restores changed settings.  
+Watches a slider component and restores changed settings when joining back.  
 
 ## TogglePersistence  
 Like SliderPersistence, but for toggle components.  
