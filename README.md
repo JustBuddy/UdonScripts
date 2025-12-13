@@ -18,4 +18,10 @@ Will turn stuff off when leaving a trigger collider.
 ## ObjectToggleMimic  
 Mimics the active state of one GameObject to another, with an option to invert.  
 Should not be attached to any objects it references.  
+  
+## Editor/ColorManager  
+Helper script that allows you to quickly change the color of many lights in a scene.  
+Used for light theme templates.  
 
+## Editor/UdonColorChanger  
+Same as ColorManager, but for VRSL Udon Components.  
